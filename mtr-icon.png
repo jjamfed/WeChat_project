@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KR5MZDK');</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>MTR &gt; We Couldn't Find The Page You Requested!</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<!--Open Graph Desciption-->
+<meta property="og:image" content="http://www.mtr.com.hk/en/customer/images/fb_logo.jpg">
+<meta property="og:Description" content=" ">
+<!--End Of Open Graph Desciption-->
+<link rel="stylesheet" href="/en/customer/css/master_grid.css">
+<link rel="stylesheet" href="/en/customer/css/common.css">
+<link rel="stylesheet" id="responsive_css">
+
+</head>
+
+<body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KR5MZDK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="page404">
+
+<div id="headerWrap">
+<a class="logoContainer" href="/en/customer/main/index.html" title="MTR">
+        <span class="logo_box">
+        <img class="logo_1" src="/en/customer/images/logo_1.png" alt="MTR">
+        <!--<img class="logo_2" src="/en/customer/images/logo_2.png" alt="MTR">-->
+        </span>
+        </a></div>
+
+<div id="main">
+	<div class="main fixed">
+    	<div class="col12 last Tcol12 Mcol12 generalcontent">
+			<a id="skip" class="skipSymbol">-</a>
+        	
+                <h1 class="generaltitle">We Couldn't Find The Page You Requested!</h1>
+                
+                <p>The page you requested may not exist anymore or it may have moved to a new address. If you reached this page from a bookmark, please update your records.<br>
+We apologize for any inconvenience this may cause.<br>
+As an option, you may visit <a href="https://www.mtr.com.hk/en/corporate/main/index.html" title="Corporate Site Map" target="_blank" rel="noopener noreferrer">Corporate Site </a> or<a href="https://www.mtr.com.hk/en/customer/main/index.html" title="Customer Site Map" target="_blank" rel="noopener noreferrer"> Customer Site </a> for information about MTR Website. </p>
+
+			<!--
+As an option, you may visit <a href="/en/corporate/footer/sitemap.php" title="Corporate Site Map" target="_blank">Corporate Site Map</a> or<a href="/en/customer/main/sitemap.html" title="Customer Site Map"> Customer Site Map</a> for information about MTR Website. -->			
+			
+<h1 class="generaltitle">找不到網頁！</h1>
+                
+                <p class="last">對不起！您所要找的網頁可能已經被移除了，可能是它的名稱已經變更，或暫時無法使用。如您是透過「我的最愛」瀏覽此網頁，請更新你的「我的最愛」。<br>
+                如需要更多資料，請瀏覽「<a href="https://www.mtr.com.hk/ch/corporate/main/index.html" title="公司資料的網站指南" target="_blank" rel="noopener noreferrer">公司資料的網站</a>」或「<a href="https://www.mtr.com.hk/ch/customer/main/index.html" title="顧客資訊的網站指南" target="_blank" rel="noopener noreferrer">顧客資訊的網站</a>」。</p>
+      
+</div>
+
+</div>
+</div>
+<script>document.write('&copy;' + (new Date()).getFullYear() + ' MTR Corporation Limited 香港鐵路有限公司');</script>
+</div>
+</body>
+</html>
+
